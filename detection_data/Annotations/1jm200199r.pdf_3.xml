@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2011-1</folder>
+	<filename>1jm200199r.pdf_3.jpg</filename>
+	<path>C:\Users\YML\Downloads\2011-1\1jm200199r.pdf_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1266</width>
+		<height>1669</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>exist_molecular</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>177</ymin>
+			<xmax>439</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>
