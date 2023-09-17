@@ -1,7 +1,7 @@
 # YoDe-Segmentation_data
 ## Description
 
-he YoDe-Segmentation dataset is divided into two parts: the YoLov5 training set and the DeepLabv3 training set:
+The YoDe-Segmentation datasets is divided into two parts: the YoLov5 training set and the DeepLabv3 training set:
 
 * The detection_data folder contains the training dataset for the YoLov5 network model, with a size of 1933. After downloading, it can be used directly to train the YoLov5 network model.
 
